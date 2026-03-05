@@ -1,0 +1,16 @@
+{
+    "version": "2.0",
+    "skill": "vintage-logo-sticker-01",
+    "reference_image_url": "https://raw.githubusercontent.com/Frank-Aiello/nano-banana-reference-assets/main/creature_1963_box_ref.jpg",
+    "logo_name": "The Creature (Aurora 1963 version)",
+    "visual_elements": [
+        "standalone name logo only",
+        "dripping, ragged yellow horror font",
+        "bright citrus yellow color",
+        "black shadow/outline effect exactly as seen on the box",
+        "sharp, clean reproduction of the primitive typography",
+        "75% canvas fill with cream margins",
+        "thick black sticker border",
+        "microscopic 1px white kiss-cut line"
+    ]
+}
